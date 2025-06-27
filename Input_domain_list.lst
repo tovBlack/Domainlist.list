@@ -807,3 +807,5 @@ nftset=/zona.media/4#inet#fw4#vpn_domains
 nftset=/github.com/4#inet#fw4#vpn_domains
 nftset=/githubusercontent.com/4#inet#fw4#vpn_domains
 nftset=/autotcn.com/4#inet#fw4#vpn_domains
+nftset=/youtube.com/4#inet#fw4#vpn_domains
+nftset=/ytimg.com/4#inet#fw4#vpn_domains
