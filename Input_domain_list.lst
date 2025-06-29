@@ -480,7 +480,6 @@ nftset=/openai.com/4#inet#fw4#vpn_domains
 nftset=/openmedia.io/4#inet#fw4#vpn_domains
 nftset=/opensea.io/4#inet#fw4#vpn_domains
 nftset=/opentrackr.org/4#inet#fw4#vpn_domains
-nftset=/openwrt.org/4#inet#fw4#vpn_domains
 nftset=/opposition-news.com/4#inet#fw4#vpn_domains
 nftset=/ovd.info/4#inet#fw4#vpn_domains
 nftset=/ovd.legal/4#inet#fw4#vpn_domains
