@@ -809,3 +809,5 @@ nftset=/github.com/4#inet#fw4#vpn_domains
 nftset=/githubusercontent.com/4#inet#fw4#vpn_domains
 nftset=/nineyinmanual.com/4#inet#fw4#vpn_domains
 nftset=/autotcn.com/4#inet#fw4#vpn_domains
+nftset=/asus.com/4#inet#fw4#vpn_domains
+nftset=/openwrt.org/4#inet#fw4#vpn_domains
